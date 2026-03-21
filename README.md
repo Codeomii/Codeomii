@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hii, I'm Om Patel👨‍💻
+
 I am a passionate AI & Machine Learning student currently in my 2nd year at Baba Mastnath University. I enjoy building a strong foundation in Data Structures & Algorithms, Python programming, and core concepts of Artificial Intelligence.<br><br>I am actively working on improving my problem-solving skills and exploring real-world applications of AI/ML. Alongside academics, I like to build small projects and continuously learn new technologies to enhance my development skills.<br><br>💡 What I’m focused on:<br><br>Data Structures & Algorithms (DSA)<br>Python & Problem Solving<br>Machine Learning fundamentals<br>Building real-world projects<br><br>📈 Goals:<br><br>To become a skilled Software Engineer / AI Engineer<br>Contribute to open-source projects<br>Build impactful and scalable applications<br><br>⚡ Fun fact: I believe consistency beats talent—so I try to code and learn something new every day.
 
 
