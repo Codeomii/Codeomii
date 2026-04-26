@@ -1,32 +1,64 @@
 <h1 align="center">Hi 👋, I'm Om Patel</h1>
 
-<h3 align="center">🚀 AI & ML Student | 💻 DSA Enthusiast | 🔥 Future Software Engineer</h3>
+<h3 align="center">🚀 AI & ML Specialist | 📊 Data Engineer | 💻 DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;DSA+Learner;Python+Developer;Consistency+%3E+Talent" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Specialist;Data+Engineer;Python+Developer;Consistency+%3E+Talent" />
 </p>
+
 ---
-I am a passionate AI & Machine Learning student currently in my 2nd year at Baba Mastnath University. I enjoy building a strong foundation in Data Structures & Algorithms, Python programming, and core concepts of Artificial Intelligence.<br><br>I am actively working on improving my problem-solving skills and exploring real-world applications of AI/ML. Alongside academics, I like to build small projects and continuously learn new technologies to enhance my development skills.<br><br>💡 What I’m focused on:<br><br>Data Structures & Algorithms (DSA)<br>Python & Problem Solving<br>Machine Learning fundamentals<br>Building real-world projects<br><br>📈 Goals:<br><br>To become a skilled Software Engineer / AI Engineer<br>Contribute to open-source projects<br>Build impactful and scalable applications<br><br>⚡ Fun fact: I believe consistency beats talent—so I try to code and learn something new every day.
 
+### 💫 About Me
+I am a passionate **AI & Machine Learning student** (2nd Year) at **Baba Mastnath University**, Rohtak. I specialize in building data-driven solutions and mastering Data Structures & Algorithms. Currently focused on **Data Engineering** and deploying scalable **ML models**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/opiu.m113) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ompatel2610) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/omp83075) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Few_Swing_1028) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omp83075@gmail.com) 
+* 📍 **Location:** Rohtak, India
+* 📧 **Contact:** [omp83075@gmail.com](mailto:omp83075@gmail.com)
+* ⚡ **Fact:** I believe consistency beats talent—200+ days streak and counting!
 
-## 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode" />
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codeomii&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Codeomii&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeomii&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠 Tech Stack & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,fastapi,mysql,postman,linux" />
+</p>
+
+---
+
+## 🔗 Connect & Coding Profiles
+| Platform | Link | Streak / Stats |
+| :--- | :--- | :--- |
+| **LeetCode** | [Profile](https://leetcode.com/yagval_1976) | ![Streak](https://img.shields.io/badge/Streak-200%2B_Days-orange?style=flat-square&logo=leetcode) |
+| **GeeksforGeeks** | [Profile](https://www.geeksforgeeks.org/user/omp83075/) | ![Streak](https://img.shields.io/badge/Streak-200%2B_Days-green?style=flat-square&logo=geeksforgeeks) |
+| **Codolio** | [Profile](https://codolio.com/profile/Opiu.m113) | ![Rank](https://img.shields.io/badge/Competitive-Programming-blue?style=flat-square) |
+| **LinkedIn** | [Connect](https://linkedin.com/in/ompatel2610/) | ![Network](https://img.shields.io/badge/Professional-Network-0077B5?style=flat-square&logo=linkedin) |
+
+---
+
+## 📈 Coding Journey Stats
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/yagval_1976?theme=dark&font=Fira%20Code" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Codeomii&theme=chartreuse-dark&show_icons=true&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Codeomii&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeomii&theme=chartreuse-dark&layout=compact" />
+</p>
+
+---
+
+## 🌐 Socials & Reach Out
+<p align="left">
+<a href="https://instagram.com/opiu.m113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opiu.m113" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ompatel2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ompatel2610" height="30" width="40" /></a>
+<a href="https://pinterest.com/omp83075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="omp83075" height="30" width="40" /></a>
+<a href="mailto:omp83075@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="35" /></a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Codeomii&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Codeomii&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Codeomii&icon=0&color=0" />
+</p>
