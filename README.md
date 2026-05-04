@@ -56,18 +56,21 @@ I am a passionate **AI & Machine Learning student** (2nd Year) at **Baba Mastnat
 ---
 
 ## 📈 Coding Journey Stats
+
 <p align="center">
-  <img width="48%" src="https://leetcard.jacoblin.cool/yagval_1976?theme=dark&font=Fira%20Code" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Codeomii&theme=chartreuse-dark&show_icons=true&hide_border=false" />
+  <img src="https://leetcard.jacoblin.cool/yagval_1976?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Codeomii&theme=chartreuse-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeomii&theme=chartreuse-dark&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Codeomii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Codeomii&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeomii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 ## 🌐 Socials & Reach Out
 <p align="left">
 <a href="https://instagram.com/opiu.m113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opiu.m113" height="30" width="40" /></a>
