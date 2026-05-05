@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Patel</h1>
+<h1 align="center"><i>Hi 👋, I'm Om Patel<i/></h1>
 
 <h3 align="center">🚀 AI & ML Specialist | 📊 Data Engineer | 💻 DSA Enthusiast</h3>
 
@@ -14,12 +14,12 @@
 ---
 
 ### 💫 About Me
-I am a passionate **AI & Machine Learning student** (2nd Year) at **Baba Mastnath University**, Rohtak. I specialize in building data-driven solutions and mastering Data Structures & Algorithms. Currently focused on **Data Engineering** and deploying scalable **ML models**.
+<i>I am a passionate **AI & Machine Learning student** (2nd Year) at **Baba Mastnath University**, Rohtak. I specialize in building data-driven solutions and mastering Data Structures & Algorithms. Currently focused on **Data Engineering** and deploying scalable **ML models**.
 
 * 📍 **Location:** Rohtak, India
 * 📧 **Contact:** [omp83075@gmail.com](mailto:omp83075@gmail.com)
 * ⚡ **Fact:** I believe consistency beats talent—200+ days streak and counting!
-
+<i/>
 ---
 
 ## 🛠 Tech Stack
