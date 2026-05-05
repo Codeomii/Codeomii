@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Specialist;Data+Engineer;Python+Developer;Consistency+%3E+Talent" />
 </p>
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
